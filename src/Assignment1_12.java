@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Quiz_12 {
+public class Assignment1_12 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.print("연산>>");
